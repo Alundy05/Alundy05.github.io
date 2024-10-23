@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+    font-family: "Ariel", sans-serif;
+    line-height: 1.6;
+    color: #d943ff;
+    background-color: beige;
+}
+
+.container{
+    width: 80%;
+    margin: 0 auto;
+}
+
+header{
+    background-color: #d943ff;
+    color: aliceblue;
+    padding: 2rem 0;
+    text-align: center;
+}
+
+header h1{
+    font-size: 3rem;
+    font-weight: 700;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 4px black;
+
+}
+
+.subtitle{
+    margin-top: 0.5 rem;
+    font-style: italic;
+
+}
+
+nav ul{
+    list-style: none;
+    padding: 0;
+}
+
